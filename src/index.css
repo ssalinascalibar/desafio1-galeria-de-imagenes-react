@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+img{
+  max-width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+
+
+h1{
+  text-align: center;
+  color: #ccc;
+  background-color: #4c4c4c;
+  padding: 1rem 0;
+}
+
+.cards{
+  margin: 1rem 0;
+}
+
+.content{
+  color: #ccc;
+  background-color: #272727;
+  padding: 0.5rem 0;
+  text-align: center;
+}
+
+.footer{
+  color: #4c4c4c;
+  text-align: center;
+  margin: 1rem 0 0 0;
+  padding: 1rem;
+}
